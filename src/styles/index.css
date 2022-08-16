@@ -15,7 +15,7 @@ body{
 }
 button{border: none;
 color:red;
-background: rgb(154, 154, 238);text-align: right;}
+background: rgb(154, 154, 238);}
 input{border: none;
 border-top-left-radius: 50px;
 border-bottom-left-radius: 50px;
