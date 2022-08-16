@@ -10,3 +10,19 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+body{
+    background: rgb(154, 154, 238);
+}
+button{border: none;
+color:red;
+background: rgb(154, 154, 238);text-align: right;}
+input{border: none;
+border-top-left-radius: 50px;
+border-bottom-left-radius: 50px;
+border-top-right-radius: 50px;
+border-bottom-right-radius: 50px;
+margin-bottom: 20px;
+width: 230px;
+}
+li{list-style: none;
+width: 230px;text-align: left;}
